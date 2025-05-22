@@ -1,2 +1,2 @@
-# Smile Detector
-Detects smiling face.
+# Smiling-Face-Detector
+This repo gives you code about detecting the smiling face. 
